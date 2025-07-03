@@ -22,6 +22,7 @@ A Power BI analysis and visualization of Palmora Group HR data highlighting gend
 
 Analysis
 
+[Palmora Group HR Analysis.pdf](https://github.com/user-attachments/files/21045634/Palmora.Group.HR.Analysis.pdf)
 
 
 
