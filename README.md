@@ -24,6 +24,7 @@ Analysis
 
 [Palmora Group HR Analysis.pdf](https://github.com/user-attachments/files/21045634/Palmora.Group.HR.Analysis.pdf)
 
+![Palmora Group HR Analysis- JPG](https://github.com/user-attachments/assets/a5aa969c-6404-41b6-a916-5a82a2a3e4a9)
 
 
 
