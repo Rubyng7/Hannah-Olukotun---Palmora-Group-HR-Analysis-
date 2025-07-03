@@ -11,3 +11,14 @@ A Power BI analysis and visualization of Palmora Group HR data highlighting gend
 ### Data Sources 
 
 ### Tools Used
+- MS Excel for Data Cleaning [Download here](https://www.microsoft.com/en-gb/microsoft-365/excel)
+- Power BI for creating a report
+
+### Exploratory Data Analysis
+
+
+
+### Data Analysis
+
+
+
