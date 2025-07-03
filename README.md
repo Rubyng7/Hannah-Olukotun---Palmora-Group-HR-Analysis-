@@ -45,17 +45,17 @@ Initial data profiling and cleansing were performed in Excel. Key steps included
 
 ### Data Analysis
 
-The Power BI report includes multiple pages covering:
+- The Power BI report includes multiple pages covering:
 
-Workforce composition by gender
+- Workforce composition by gender
 
-Salary disparity analysis by role and department
+- Salary disparity analysis by role and department
 
-Promotion trends by gender
+- Promotion trends by gender
 
-Attrition rates and patterns
+- Attrition rates and patterns
 
-Departmental representation
+- Departmental representation
 
 #### Dashboard and Visualizations
 
@@ -71,36 +71,36 @@ The full Power BI report is available for review in PDF format and as a visual p
 
 ### Result/Findings
 
-Gender Imbalance: A significant gender imbalance was identified in leadership roles, with males occupying over 70% of managerial positions.
+- Gender Imbalance: A significant gender imbalance was identified in leadership roles, with males occupying over 70% of managerial positions.
 
-Pay Disparity: Male employees tend to have higher average salaries, especially in technical and management departments.
+- Pay Disparity: Male employees tend to have higher average salaries, especially in technical and management departments.
 
-Promotion Bias: Promotion trends favored male employees, particularly in the last three years.
+- Promotion Bias: Promotion trends favored male employees, particularly in the last three years.
 
-Attrition Patterns: Female employees showed a higher rate of exit within their first two years, suggesting potential onboarding or inclusion issues.
+- Attrition Patterns: Female employees showed a higher rate of exit within their first two years, suggesting potential onboarding or inclusion issues.
 
 ### Recommendations
 
-Implement gender-focused leadership development programs.
+- Implement gender-focused leadership development programs.
 
-Standardize promotion criteria and conduct blind reviews where possible.
+- Standardize promotion criteria and conduct blind reviews where possible.
 
-Establish transparent salary bands and conduct regular pay audits.
+- Establish transparent salary bands and conduct regular pay audits.
 
-Improve onboarding processes and conduct exit interviews to gather qualitative data from departing employees.
+- Improve onboarding processes and conduct exit interviews to gather qualitative data from departing employees.
 
 ### Limitations
 
-The dataset is static and reflects a snapshot in time; it does not track real-time changes.
+- The dataset is static and reflects a snapshot in time; it does not track real-time changes.
 
-Some data fields were anonymized or generalized, which may reduce granularity.
+- Some data fields were missing, which may reduce accuracy.
 
-External factors (e.g., market trends, macroeconomic conditions) are not included in the analysis.
+
 
 ### References
 
-Internal Palmora Group HR Data
+- Internal Palmora Group HR Data
 
-Power BI Documentation: https://learn.microsoft.com/en-us/power-bi/
+- Power BI Documentation: https://learn.microsoft.com/en-us/power-bi/
 
 
