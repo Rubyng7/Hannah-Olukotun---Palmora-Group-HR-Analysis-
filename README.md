@@ -88,7 +88,9 @@ The full Power BI report is available for review in PBI & PDF format and as a vi
 
 - Standardize recruitment for both gender
 
-- Establish transparent salary bands and conduct regular pay audits.
+- Establish transparent salary bands and conduct regular pay audits
+
+- Be more salary compliant and increase pay of well rated employees above the mim pay expectation.
 
 
 ### Limitations
