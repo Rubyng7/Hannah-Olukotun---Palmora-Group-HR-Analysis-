@@ -40,22 +40,25 @@ Initial data profiling and cleansing were performed in Excel. Key steps included
 
 - Handling missing values
 
-- Standardizing categorical fields (e.g., gender, department names)
+- Standardizing categorical fields (e.g., gender, department, and names)
 
 
 ### Data Analysis
 
 - The Power BI report includes multiple pages covering:
 
-- Workforce composition by gender
+- Gender distribution by Departments & Regions
 
-- Salary disparity analysis by role and department
+- Gender Pay Gap analysis based on Departments and Regions
 
-- Promotion trends by gender
+- Insights on Performance Ratings based on Gender
 
-- Attrition rates and patterns
+- Pay Band Distribution by Regions
 
-- Departmental representation
+- Minimum Salary Compliance
+
+- Compensation paid per region and company-wide
+
 
 #### Dashboard and Visualizations
 
@@ -71,23 +74,22 @@ The full Power BI report is available for review in PDF format and as a visual p
 
 ### Result/Findings
 
-- Gender Imbalance: A significant gender imbalance was identified in leadership roles, with males occupying over 70% of managerial positions.
+- Gender Imbalance: Gender imbalance was identified in the departments and regions, with males domininating most of the departments and regions.
 
-- Pay Disparity: Male employees tend to have higher average salaries, especially in technical and management departments.
+- Pay Disparity: Male employees tend to have higher average salaries, in the regions.
 
-- Promotion Bias: Promotion trends favored male employees, particularly in the last three years.
+- Rating Bias: Females had better performance rating than males but paid less.
 
-- Attrition Patterns: Female employees showed a higher rate of exit within their first two years, suggesting potential onboarding or inclusion issues.
+- Both Male and Female Employees were paid almost equal bonus amount.
 
 ### Recommendations
 
-- Implement gender-focused leadership development programs.
+- Implement gender-focused programs.
 
-- Standardize promotion criteria and conduct blind reviews where possible.
+- Standardize recruitment for both gender
 
 - Establish transparent salary bands and conduct regular pay audits.
 
-- Improve onboarding processes and conduct exit interviews to gather qualitative data from departing employees.
 
 ### Limitations
 
