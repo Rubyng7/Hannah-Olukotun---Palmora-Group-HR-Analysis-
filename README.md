@@ -90,7 +90,7 @@ The full Power BI report is available for review in PBI & PDF format and as a vi
 
 - Establish transparent salary bands and conduct regular pay audits
 
-- Be more salary compliant and increase pay of well rated employees above the mim pay expectation.
+- Be more salary compliant and increase pay of well rated employees above the mimimum pay expectation.
 
 
 ### Limitations
