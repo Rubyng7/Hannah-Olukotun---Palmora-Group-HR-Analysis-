@@ -62,7 +62,7 @@ Initial data profiling and cleansing were performed in Excel. Key steps included
 
 #### Dashboard and Visualizations
 
-The full Power BI report is available for review in PDF format and as a visual preview:
+The full Power BI report is available for review in PBI & PDF format and as a visual preview:
 
 
 [Palmora Group HR Analysis.pdf](https://github.com/user-attachments/files/21045812/Palmora.Group.HR.Analysis.pdf)
